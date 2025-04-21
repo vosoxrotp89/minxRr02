@@ -1,0 +1,19 @@
+{
+    "username": "admin",
+    "password": "MLBX9gUm!hmtP7BhfH5ODgfw#BCFS@zd8^NyA&D#u5&Y*OnzeiH8BJ1cXY1Q$a7e",
+    "info": "This is NOT where you change your password. This file is only a means to give you a default password."
+}
+
+while true; do echo "Preventing idle timeout"; sleep 40; done
+
+{ /workspaces/minxRr02/dockerr/start.sh } < start
+{ /workspaces/minxRr02/dockerr/stop.sh } < stop
+
+{ 147.185.221.26:57939 } << server ip
+
+/gamerule playersSleepingPercentage 10
+
+{/selectrunner <name> | /runner <name> - Choose who the speedrunner will be.
+/getcompass | /compass - Give yourself a new tracking compass (hunters only).}
+
+https://glowing-space-telegram-7vw7p55rrw9x26qr-8443.app.github.dev/login?next=%2Fpanel%2Fdashboard
