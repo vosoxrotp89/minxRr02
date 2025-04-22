@@ -13,7 +13,6 @@ while true; do echo "Preventing idle timeout"; sleep 40; done
 
 /gamerule playersSleepingPercentage 10
 
-{/selectrunner <name> | /runner <name> - Choose who the speedrunner will be.
-/getcompass | /compass - Give yourself a new tracking compass (hunters only).}
+{}
 
 https://glowing-space-telegram-7vw7p55rrw9x26qr-8443.app.github.dev/login?next=%2Fpanel%2Fdashboard
