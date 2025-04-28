@@ -1,260 +1,105 @@
-[07:46:17] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[07:46:21] [ServerMain/INFO]: Loaded 1290 recipes
-[07:46:21] [ServerMain/INFO]: Loaded 1399 advancements
-[07:46:23] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[07:46:23] [Server thread/INFO]: Loading properties
-[07:46:23] [Server thread/INFO]: Default game type: SURVIVAL
-[07:46:23] [Server thread/INFO]: Generating keypair
-[07:46:23] [Server thread/INFO]: Starting Minecraft server on *:25565
-[07:46:23] [Server thread/INFO]: Using epoll channel type
-[07:46:23] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[07:46:23] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[07:46:23] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[07:46:23] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[07:46:23] [Server thread/INFO]: Preparing level "world"
-[07:46:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[07:46:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:46:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[07:46:34] [Worker-Main-1/INFO]: Preparing spawn area: 10%
-[07:46:34] [Worker-Main-1/INFO]: Preparing spawn area: 53%
-[07:46:35] [Server thread/INFO]: Time elapsed: 1812 ms
-[07:46:35] [Server thread/INFO]: Done (11.579s)! For help, type "help"
-[07:52:59] [Server thread/INFO]: Drakii27[/172.17.0.1:42270] logged in with entity id 64 at (187.11464850982298, 64.0, 38.551244932518394)
-[07:52:59] [Server thread/INFO]: Drakii27 joined the game
-[08:37:03] [Server thread/INFO]: Drakii27 lost connection: Timed out
-[08:37:03] [Server thread/INFO]: Drakii27 left the game
-[08:37:03] [Server thread/WARN]: handleDisconnection() called twice
-[08:38:27] [Server thread/INFO]: Drakii27[/172.17.0.1:37700] logged in with entity id 6281 at (161.3527871862326, 63.0, 48.32427590030722)
-[08:38:27] [Server thread/INFO]: Drakii27 joined the game
-[08:39:25] [Server thread/INFO]: HabuGandu[/172.17.0.1:37758] logged in with entity id 6615 at (186.69999998807907, 63.07711999903202, 37.61386711543383)
-[08:39:25] [Server thread/INFO]: HabuGandu joined the game
-[08:39:55] [Server thread/INFO]: HabuGandu lost connection: Timed out
-[08:39:55] [Server thread/INFO]: HabuGandu left the game
-[08:39:55] [Server thread/WARN]: handleDisconnection() called twice
-[08:41:42] [Server thread/INFO]: HabuGandu[/172.17.0.1:56334] logged in with entity id 6904 at (186.69999998807907, 63.07711999903202, 37.61386711543383)
-[08:41:42] [Server thread/INFO]: HabuGandu joined the game
-[08:43:34] [Server thread/INFO]: Drakii27 drowned
-[08:43:57] [Server thread/INFO]: Drakii27 lost connection: Timed out
-[08:43:57] [Server thread/INFO]: Drakii27 left the game
-[08:43:57] [Server thread/INFO]: HabuGandu lost connection: Timed out
-[08:43:57] [Server thread/INFO]: HabuGandu left the game
-[08:44:21] [Server thread/INFO]: Drakii27[/172.17.0.1:53542] logged in with entity id 7317 at (166.05831998863664, 63.0, 47.65145597395793)
-[08:44:21] [Server thread/INFO]: Drakii27 joined the game
-[08:44:51] [Server thread/INFO]: Drakii27 lost connection: Timed out
-[08:44:51] [Server thread/INFO]: Drakii27 left the game
-[08:45:20] [Server thread/INFO]: Drakii27[/172.17.0.1:56602] logged in with entity id 7340 at (166.05831998863664, 63.0, 47.65145597395793)
-[08:45:20] [Server thread/INFO]: Drakii27 joined the game
-[08:46:25] [Server thread/INFO]: HabuGandu[/172.17.0.1:42422] logged in with entity id 7574 at (174.50314313976716, 63.49520087700592, 41.49575899652131)
-[08:46:25] [Server thread/INFO]: HabuGandu joined the game
-[08:46:53] [Server thread/WARN]: Drakii27 moved too quickly! 0.0,-10.297690638305944,0.0
-[08:47:05] [Server thread/INFO]: Drakii27 lost connection: Timed out
-[08:47:05] [Server thread/INFO]: Drakii27 left the game
-[08:47:24] [Server thread/INFO]: Made theHULK a server operator
-[08:47:27] [Server thread/INFO]: Made HabuGandu a server operator
-[08:51:41] [Server thread/INFO]: Drakii27[/172.17.0.1:42426] logged in with entity id 8562 at (165.43423883118263, 57.88414236173044, 39.535456871971405)
-[08:51:41] [Server thread/INFO]: Drakii27 joined the game
-[08:52:26] [Server thread/INFO]: [HabuGandu: Set Drakii27's game mode to Survival Mode]
-[08:56:33] [Server thread/INFO]: Drakii27 was blown up by Creeper
-[08:56:41] [Server thread/INFO]: Drakii27 lost connection: Disconnected
-[08:56:41] [Server thread/INFO]: Drakii27 left the game
-[08:56:58] [Server thread/INFO]: Drakii27[/172.17.0.1:46686] logged in with entity id 9359 at (157.1880817515903, 63.0, 35.61282254923918)
-[08:56:58] [Server thread/INFO]: Drakii27 joined the game
-[08:56:59] [Server thread/INFO]: [HabuGandu: Gave 128 [Cobblestone] to HabuGandu]
-[08:57:05] [Server thread/INFO]: [HabuGandu: Set Drakii27's game mode to Survival Mode]
-[08:58:29] [Server thread/INFO]: [HabuGandu: Gave 1 [Grindstone] to HabuGandu]
-[08:59:09] [Server thread/INFO]: [HabuGandu: Applied enchantment Power V to HabuGandu's item]
-[08:59:18] [Server thread/INFO]: [HabuGandu: Applied enchantment Punch II to HabuGandu's item]
-[08:59:29] [Server thread/INFO]: [HabuGandu: Applied enchantment Flame to HabuGandu's item]
-[08:59:45] [Server thread/INFO]: [HabuGandu: Applied enchantment Unbreaking III to HabuGandu's item]
-[08:59:51] [Server thread/INFO]: [HabuGandu: Applied enchantment Infinity to HabuGandu's item]
-[09:00:46] [Server thread/INFO]: [HabuGandu: Gave 64 [Orange Dye] to HabuGandu]
-[09:00:54] [Server thread/INFO]: [HabuGandu: Gave 64 [Pink Dye] to HabuGandu]
-[09:01:02] [Server thread/INFO]: [HabuGandu: Gave 64 [Red Dye] to HabuGandu]
-[09:01:11] [Server thread/INFO]: [HabuGandu: Gave 64 [Yellow Dye] to HabuGandu]
-[09:01:18] [Server thread/INFO]: [HabuGandu: Gave 64 [Green Dye] to HabuGandu]
-[09:01:26] [Server thread/INFO]: [HabuGandu: Gave 64 [White Dye] to HabuGandu]
-[09:01:34] [Server thread/INFO]: [HabuGandu: Gave 64 [Cyan Dye] to HabuGandu]
-[09:01:59] [Server thread/INFO]: [HabuGandu: Gave 128 [Gold Nugget] to HabuGandu]
-[09:02:09] [Server thread/INFO]: [HabuGandu: Gave 128 [Paper] to HabuGandu]
-[09:02:33] [Server thread/INFO]: [HabuGandu: Gave 128 [Gunpowder] to HabuGandu]
-[09:03:17] [Server thread/INFO]: [HabuGandu: Gave 128 [Gunpowder] to HabuGandu]
-[09:03:19] [Server thread/INFO]: [HabuGandu: Gave 128 [Gold Nugget] to HabuGandu]
-[09:03:39] [Server thread/INFO]: [HabuGandu: Gave 128 [Gold Nugget] to HabuGandu]
-[09:03:40] [Server thread/INFO]: [HabuGandu: Gave 128 [Gunpowder] to HabuGandu]
-[09:04:07] [Server thread/INFO]: [HabuGandu: Gave 128 [Gunpowder] to HabuGandu]
-[09:04:33] [Server thread/INFO]: [HabuGandu: Gave 128 [Gold Nugget] to HabuGandu]
-[09:06:02] [Server thread/INFO]: [HabuGandu: Applied enchantment Unbreaking III to HabuGandu's item]
-[09:06:15] [Server thread/INFO]: [HabuGandu: Applied enchantment Multishot to HabuGandu's item]
-[09:06:21] [Server thread/INFO]: [HabuGandu: Applied enchantment Mending to HabuGandu's item]
-[09:07:26] [Server thread/INFO]: [Not Secure] <HabuGandu> happy diwali
-[09:08:13] [Server thread/INFO]: [HabuGandu: Gave 1 [Cyan Shulker Box] to HabuGandu]
-[09:08:20] [Server thread/INFO]: [HabuGandu: Set own game mode to Creative Mode]
-[09:09:07] [Server thread/INFO]: [HabuGandu: Set own game mode to Survival Mode]
-[09:09:31] [Server thread/INFO]: [HabuGandu: Set own game mode to Creative Mode]
-[09:09:42] [Server thread/INFO]: [HabuGandu: Set own game mode to Survival Mode]
-[09:10:26] [Server thread/INFO]: [HabuGandu: Gave 1 [Trident] to HabuGandu]
-[09:10:55] [Server thread/INFO]: [HabuGandu: Applied enchantment Riptide III to HabuGandu's item]
-[09:11:14] [Server thread/INFO]: [HabuGandu: Applied enchantment Impaling V to HabuGandu's item]
-[09:11:42] [Server thread/INFO]: [HabuGandu: Applied enchantment Mending to HabuGandu's item]
-[09:11:48] [Server thread/INFO]: [HabuGandu: Applied enchantment Unbreaking III to HabuGandu's item]
-[09:11:58] [Server thread/INFO]: [HabuGandu: Set own game mode to Creative Mode]
-[09:12:45] [Server thread/INFO]: [HabuGandu: Applied enchantment Unbreaking III to HabuGandu's item]
-[09:12:47] [Server thread/INFO]: [HabuGandu: Applied enchantment Unbreaking III to HabuGandu's item]
-[09:12:48] [Server thread/INFO]: [HabuGandu: Applied enchantment Unbreaking III to HabuGandu's item]
-[09:12:49] [Server thread/INFO]: [HabuGandu: Applied enchantment Unbreaking III to HabuGandu's item]
-[09:12:52] [Server thread/INFO]: [HabuGandu: Applied enchantment Mending to HabuGandu's item]
-[09:12:56] [Server thread/INFO]: [HabuGandu: Applied enchantment Mending to HabuGandu's item]
-[09:12:57] [Server thread/INFO]: [HabuGandu: Applied enchantment Mending to HabuGandu's item]
-[09:12:58] [Server thread/INFO]: [HabuGandu: Applied enchantment Mending to HabuGandu's item]
-[09:13:11] [Server thread/INFO]: [HabuGandu: Applied enchantment Thorns III to HabuGandu's item]
-[09:13:21] [Server thread/INFO]: [HabuGandu: Applied enchantment Thorns III to HabuGandu's item]
-[09:13:23] [Server thread/INFO]: [HabuGandu: Applied enchantment Thorns III to HabuGandu's item]
-[09:13:24] [Server thread/INFO]: [HabuGandu: Applied enchantment Thorns III to HabuGandu's item]
-[09:13:40] [Server thread/INFO]: Drakii27 lost connection: Disconnected
-[09:13:40] [Server thread/INFO]: Drakii27 left the game
-[09:13:59] [Server thread/INFO]: [HabuGandu: Applied enchantment Respiration III to HabuGandu's item]
-[09:15:12] [Server thread/INFO]: [HabuGandu: Applied enchantment Aqua Affinity to HabuGandu's item]
-[09:15:58] [Server thread/INFO]: [HabuGandu: Applied enchantment Swift Sneak III to HabuGandu's item]
-[09:16:24] [Server thread/INFO]: [HabuGandu: Applied enchantment Soul Speed III to HabuGandu's item]
-[09:16:56] [Server thread/INFO]: [HabuGandu: Applied enchantment Feather Falling IV to HabuGandu's item]
-[09:17:11] [Server thread/INFO]: [HabuGandu: Applied enchantment Frost Walker II to HabuGandu's item]
-[09:17:41] [Server thread/INFO]: [HabuGandu: Set own game mode to Survival Mode]
-[09:29:20] [Server thread/INFO]: HabuGandu lost connection: Disconnected
-[09:29:20] [Server thread/INFO]: HabuGandu left the game
-[09:31:34] [Server thread/INFO]: HabuGandu[/172.17.0.1:44468] logged in with entity id 13890 at (201.57668197991603, 63.0, 54.53768434075057)
-[09:31:34] [Server thread/INFO]: HabuGandu joined the game
-[10:05:53] [Server thread/INFO]: Drakii27[/172.17.0.1:33396] logged in with entity id 18392 at (183.2241207594725, 63.0, 33.012868063490934)
-[10:05:53] [Server thread/INFO]: Drakii27 joined the game
-[10:09:39] [Server thread/INFO]: Drakii27 lost connection: Timed out
-[10:09:39] [Server thread/INFO]: Drakii27 left the game
-[10:11:16] [Server thread/INFO]: HabuGandu lost connection: Disconnected
-[10:11:16] [Server thread/INFO]: HabuGandu left the game
-[10:14:15] [Server thread/INFO]: HabuGandu[/172.17.0.1:39986] logged in with entity id 19200 at (182.60372890545332, 63.0, 54.046128536154335)
-[10:14:15] [Server thread/INFO]: HabuGandu joined the game
-[10:14:24] [Server thread/INFO]: Drakii27[/172.17.0.1:39990] logged in with entity id 19476 at (181.6055847038284, 63.5, 33.74153861956779)
-[10:14:24] [Server thread/INFO]: Drakii27 joined the game
-[10:17:54] [Server thread/INFO]: Drakii27 lost connection: Timed out
-[10:17:54] [Server thread/INFO]: Drakii27 left the game
-[10:18:12] [Server thread/INFO]: Drakii27[/172.17.0.1:40136] logged in with entity id 20011 at (191.1599498994909, 63.0, 35.60858159555275)
-[10:18:12] [Server thread/INFO]: Drakii27 joined the game
-[10:22:44] [Server thread/INFO]: [HabuGandu: Set own game mode to Creative Mode]
-[10:25:53] [Server thread/INFO]: [HabuGandu: Set own game mode to Survival Mode]
-[10:26:29] [Server thread/INFO]: [HabuGandu: Set Drakii27's game mode to Creative Mode]
-[10:26:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=214, y=111, z=37} jd{x=214, y=112, z=37}
-[10:26:50] [Server thread/INFO]: HabuGandu fell from a high place
-[10:26:52] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=118, y=106, z=21}
-[10:26:54] [Server thread/INFO]: [HabuGandu: Set own game mode to Survival Mode]
-[10:26:57] [Server thread/INFO]: HabuGandu fell from a high place
-[10:27:01] [Server thread/INFO]: [HabuGandu: Set own game mode to Creative Mode]
-[10:30:48] [Server thread/INFO]: [HabuGandu: Set own game mode to Spectator Mode]
-[10:30:50] [Server thread/INFO]: [HabuGandu: Set own game mode to Survival Mode]
-[10:31:02] [Server thread/INFO]: [HabuGandu: Set own game mode to Spectator Mode]
-[10:31:21] [Server thread/INFO]: [HabuGandu: Set own game mode to Survival Mode]
-[10:31:23] [Server thread/INFO]: [HabuGandu: Set own game mode to Spectator Mode]
-[10:31:30] [Server thread/INFO]: [HabuGandu: Set own game mode to Creative Mode]
-[10:32:30] [Server thread/INFO]: Drakii27 has completed the challenge [Cover Me in Debris]
-[10:33:43] [Server thread/INFO]: [HabuGandu: Set Drakii27's game mode to Survival Mode]
-[10:33:44] [Server thread/INFO]: [HabuGandu: Set Drakii27's game mode to Creative Mode]
-[10:34:06] [Server thread/INFO]: [HabuGandu: Set Drakii27's game mode to Survival Mode]
-[10:34:07] [Server thread/INFO]: [HabuGandu: Set Drakii27's game mode to Creative Mode]
-[10:35:13] [Server thread/INFO]: [HabuGandu: Teleported Drakii27 to HabuGandu]
-[10:35:50] [Server thread/INFO]: [HabuGandu: Teleported Drakii27 to HabuGandu]
-[10:36:27] [Server thread/INFO]: [HabuGandu: Set Drakii27's game mode to Spectator Mode]
-[10:36:36] [Server thread/INFO]: [HabuGandu: Set Drakii27's game mode to Creative Mode]
-[10:37:13] [Server thread/INFO]: [HabuGandu: Set Drakii27's game mode to Survival Mode]
-[10:37:14] [Server thread/INFO]: [HabuGandu: Set Drakii27's game mode to Creative Mode]
-[10:37:47] [Server thread/INFO]: [HabuGandu: Set Drakii27's game mode to Survival Mode]
-[10:37:49] [Server thread/INFO]: [HabuGandu: Set Drakii27's game mode to Creative Mode]
-[10:38:08] [Server thread/INFO]: [HabuGandu: Set own game mode to Spectator Mode]
-[10:38:16] [Server thread/INFO]: [HabuGandu: Set own game mode to Survival Mode]
-[10:38:59] [Server thread/INFO]: Drakii27 lost connection: Timed out
-[10:38:59] [Server thread/INFO]: Drakii27 left the game
-[10:39:05] [Server thread/INFO]: [HabuGandu: Gave 128 [Bottle o' Enchanting] to HabuGandu]
-[10:39:13] [Server thread/INFO]: Drakii27[/172.17.0.1:56130] logged in with entity id 24581 at (223.45727270483607, 124.58449650798784, 37.573530913910254)
-[10:39:13] [Server thread/INFO]: Drakii27 joined the game
-[10:40:15] [Server thread/INFO]: [HabuGandu: Gave 128 [Bottle o' Enchanting] to HabuGandu]
-[10:40:51] [Server thread/INFO]: [HabuGandu: Applied enchantment Mending to HabuGandu's item]
-[10:41:27] [Server thread/INFO]: [HabuGandu: Gave 128 [Bottle o' Enchanting] to HabuGandu]
-[10:42:16] [Server thread/INFO]: [HabuGandu: Set Drakii27's game mode to Survival Mode]
-[10:42:28] [Server thread/INFO]: [HabuGandu: Set own game mode to Spectator Mode]
-[10:42:34] [Server thread/INFO]: [HabuGandu: Set own game mode to Creative Mode]
-[10:43:06] [Server thread/INFO]: [HabuGandu: Set own game mode to Spectator Mode]
-[10:43:09] [Server thread/INFO]: [HabuGandu: Set own game mode to Survival Mode]
-[10:43:10] [Server thread/WARN]: Drakii27 moved too quickly! -4.949761577571081,0.0,-8.723479638410275
-[10:43:13] [Server thread/INFO]: Drakii27 lost connection: Timed out
-[10:43:13] [Server thread/INFO]: Drakii27 left the game
-[10:43:17] [Server thread/INFO]: HabuGandu lost connection: Timed out
-[10:43:17] [Server thread/INFO]: HabuGandu left the game
-[10:43:27] [Server thread/INFO]: Drakii27[/172.17.0.1:46540] logged in with entity id 25320 at (195.12146288038142, 62.9375, 45.36847444046221)
-[10:43:27] [Server thread/INFO]: Drakii27 joined the game
-[10:43:31] [Server thread/INFO]: HabuGandu[/172.17.0.1:46544] logged in with entity id 25584 at (205.29669785616892, 76.0, 55.104939983959575)
-[10:43:31] [Server thread/INFO]: HabuGandu joined the game
-[10:43:40] [Server thread/INFO]: [HabuGandu: Set own game mode to Creative Mode]
-[10:44:33] [Server thread/INFO]: [HabuGandu: Set own game mode to Survival Mode]
-[10:44:44] [Server thread/INFO]: [HabuGandu: Set own game mode to Creative Mode]
-[10:44:52] [Server thread/INFO]: [HabuGandu: Set own game mode to Survival Mode]
-[10:45:42] [Server thread/INFO]: [HabuGandu: Set own game mode to Creative Mode]
-[10:45:46] [Server thread/INFO]: [HabuGandu: Set own game mode to Survival Mode]
-[10:52:12] [Server thread/INFO]: [HabuGandu: Teleported Drakii27 to HabuGandu]
-[10:52:25] [Server thread/INFO]: [HabuGandu: Teleported Drakii27 to HabuGandu]
-[10:52:37] [Server thread/INFO]: [HabuGandu: Teleported Drakii27 to HabuGandu]
-[10:52:46] [Server thread/INFO]: [HabuGandu: Set own game mode to Creative Mode]
-[10:52:52] [Server thread/INFO]: [HabuGandu: Set own game mode to Survival Mode]
-[10:52:58] [Server thread/INFO]: [HabuGandu: Teleported Drakii27 to HabuGandu]
-[10:53:14] [Server thread/INFO]: [HabuGandu: Set own game mode to Creative Mode]
-[10:53:17] [Server thread/INFO]: [HabuGandu: Set own game mode to Survival Mode]
-[10:53:37] [Server thread/INFO]: [HabuGandu: Set own game mode to Creative Mode]
-[10:53:43] [Server thread/INFO]: [HabuGandu: Set own game mode to Survival Mode]
-[10:54:06] [Server thread/INFO]: [HabuGandu: Teleported Drakii27 to HabuGandu]
-[10:54:08] [Server thread/INFO]: [HabuGandu: Set own game mode to Creative Mode]
-[10:54:13] [Server thread/INFO]: [HabuGandu: Set own game mode to Survival Mode]
-[10:54:19] [Server thread/INFO]: [HabuGandu: Teleported Drakii27 to HabuGandu]
-[10:54:25] [Server thread/INFO]: [HabuGandu: Set own game mode to Creative Mode]
-[10:54:30] [Server thread/INFO]: [HabuGandu: Teleported Drakii27 to HabuGandu]
-[10:55:54] [Server thread/INFO]: [HabuGandu: Teleported Drakii27 to HabuGandu]
-[10:56:24] [Server thread/INFO]: [HabuGandu: Teleported Drakii27 to HabuGandu]
-[10:56:30] [Server thread/INFO]: [HabuGandu: Set own game mode to Survival Mode]
-[10:56:57] [Server thread/INFO]: [HabuGandu: Set own game mode to Creative Mode]
-[10:57:08] [Server thread/INFO]: [HabuGandu: Set own game mode to Survival Mode]
-[10:57:46] [Server thread/INFO]: [HabuGandu: Set own game mode to Creative Mode]
-[10:58:18] [Server thread/INFO]: [HabuGandu: Set own game mode to Survival Mode]
-[10:58:42] [Server thread/INFO]: [HabuGandu: Teleported Drakii27 to HabuGandu]
-[10:59:05] [Server thread/INFO]: [HabuGandu: Set own game mode to Creative Mode]
-[10:59:15] [Server thread/INFO]: [HabuGandu: Teleported Drakii27 to HabuGandu]
-[10:59:17] [Server thread/INFO]: [HabuGandu: Set own game mode to Survival Mode]
-[10:59:21] [Server thread/INFO]: [HabuGandu: Set own game mode to Creative Mode]
-[10:59:29] [Server thread/INFO]: [HabuGandu: Set own game mode to Survival Mode]
-[11:00:18] [Server thread/INFO]: [HabuGandu: Teleported Drakii27 to HabuGandu]
-[11:00:27] [Server thread/INFO]: [HabuGandu: Set own game mode to Creative Mode]
-[11:00:29] [Server thread/INFO]: [HabuGandu: Set own game mode to Survival Mode]
-[11:00:34] [Server thread/INFO]: [HabuGandu: Teleported Drakii27 to HabuGandu]
-[11:00:39] [Server thread/INFO]: [HabuGandu: Set own game mode to Creative Mode]
-[11:00:47] [Server thread/INFO]: [HabuGandu: Teleported Drakii27 to HabuGandu]
-[11:00:47] [Server thread/INFO]: [HabuGandu: Set own game mode to Survival Mode]
-[11:01:03] [Server thread/INFO]: [HabuGandu: Teleported Drakii27 to HabuGandu]
-[11:01:49] [Server thread/INFO]: [HabuGandu: Teleported Drakii27 to HabuGandu]
-[11:02:16] [Server thread/INFO]: [HabuGandu: Set own game mode to Creative Mode]
-[11:02:26] [Server thread/INFO]: [HabuGandu: Set own game mode to Survival Mode]
-[11:02:30] [Server thread/INFO]: [HabuGandu: Teleported Drakii27 to HabuGandu]
-[11:05:11] [Server thread/INFO]: [HabuGandu: Set own game mode to Creative Mode]
-[11:06:21] [Server thread/INFO]: [HabuGandu: Set own game mode to Survival Mode]
-[11:06:23] [Server thread/INFO]: [HabuGandu: Set own game mode to Creative Mode]
-[11:07:05] [Server thread/INFO]: [HabuGandu: Set own game mode to Survival Mode]
-[11:08:33] [Server thread/INFO]: HabuGandu lost connection: Timed out
-[11:08:33] [Server thread/INFO]: HabuGandu left the game
-[11:09:04] [Server thread/INFO]: com.mojang.authlib.GameProfile@4f17ed8f[id=0b732e4f-60ff-3d66-a31c-2b21d5329344,name=HabuGandu,properties={}] lost connection: Timed out
-[11:16:10] [Server thread/INFO]: Drakii27 has made the advancement [Monster Hunter]
-[11:48:25] [Server thread/WARN]: Drakii27 moved too quickly! -0.3146375987139436,12.870243881711716,0.30653773200801737
-[12:00:28] [Server thread/INFO]: Drakii27 lost connection: Disconnected
-[12:00:28] [Server thread/INFO]: Drakii27 left the game
-[12:50:15] [Server thread/INFO]: Stopping the server
-[12:50:16] [Server thread/INFO]: Stopping server
-[12:50:16] [Server thread/INFO]: Saving players
-[12:50:16] [Server thread/INFO]: Saving worlds
-[12:50:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[12:50:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[12:50:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[12:50:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[12:50:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[12:50:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[12:50:16] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13:45:08] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[13:45:12] [ServerMain/INFO]: Loaded 1290 recipes
+[13:45:13] [ServerMain/INFO]: Loaded 1399 advancements
+[13:45:14] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[13:45:14] [Server thread/INFO]: Loading properties
+[13:45:14] [Server thread/INFO]: Default game type: SURVIVAL
+[13:45:14] [Server thread/INFO]: Generating keypair
+[13:45:14] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:45:14] [Server thread/INFO]: Using epoll channel type
+[13:45:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:45:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:45:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:45:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:45:15] [Server thread/INFO]: Preparing level "world"
+[13:45:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:45:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:45:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:45:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:45:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:45:32] [Server thread/INFO]: Time elapsed: 1759 ms
+[13:45:32] [Server thread/INFO]: Done (17.092s)! For help, type "help"
+[13:47:41] [Server thread/INFO]: Drakii27[/172.17.0.1:54618] logged in with entity id 51 at (183.5, 62.5625, 30.5)
+[13:47:41] [Server thread/INFO]: Drakii27 joined the game
+[13:48:52] [Server thread/INFO]: habugamer123[/172.17.0.1:53268] logged in with entity id 405 at (120.81331342668005, 105.0, 22.191294222580915)
+[13:48:52] [Server thread/INFO]: habugamer123 joined the game
+[13:48:58] [Server thread/INFO]: habugamer123 lost connection: Disconnected
+[13:48:58] [Server thread/INFO]: habugamer123 left the game
+[13:49:17] [Server thread/WARN]: Drakii27 moved wrongly!
+[13:49:58] [Server thread/INFO]: HabuGandu[/172.17.0.1:34342] logged in with entity id 612 at (153.9249645543818, 63.0, -15.095862871679103)
+[13:49:59] [Server thread/INFO]: HabuGandu joined the game
+[13:50:27] [Server thread/INFO]: [HabuGandu: Set own game mode to Survival Mode]
+[13:51:18] [Server thread/INFO]: [HabuGandu: Set own game mode to Creative Mode]
+[13:52:47] [Server thread/INFO]: [HabuGandu: Gave 128 [Cobbled Deepslate] to HabuGandu]
+[13:52:55] [Server thread/INFO]: [HabuGandu: Set own game mode to Survival Mode]
+[13:53:12] [Server thread/INFO]: [HabuGandu: Applied effect Night Vision to Drakii27]
+[13:53:29] [Server thread/INFO]: [HabuGandu: Applied effect Hunger to Drakii27]
+[13:53:51] [Server thread/INFO]: [HabuGandu: Removed effect Hunger from Drakii27]
+[13:54:14] [Server thread/INFO]: [HabuGandu: Applied effect Water Breathing to Drakii27]
+[13:54:25] [Server thread/INFO]: [HabuGandu: Applied effect Water Breathing to HabuGandu]
+[13:54:48] [Server thread/INFO]: [HabuGandu: Applied effect Night Vision to HabuGandu]
+[13:55:09] [Server thread/INFO]: [HabuGandu: Applied effect Strength to 2 targets]
+[13:55:31] [Server thread/INFO]: [HabuGandu: Applied effect Health Boost to 2 targets]
+[13:56:57] [Server thread/INFO]: [HabuGandu: Set own game mode to Spectator Mode]
+[13:57:01] [Server thread/INFO]: [HabuGandu: Set own game mode to Creative Mode]
+[13:58:15] [Server thread/INFO]: [HabuGandu: Set own game mode to Survival Mode]
+[13:59:42] [Server thread/INFO]: [HabuGandu: Set own game mode to Adventure Mode]
+[13:59:44] [Server thread/INFO]: [HabuGandu: Set own game mode to Spectator Mode]
+[14:01:03] [Server thread/INFO]: [HabuGandu: Set own game mode to Survival Mode]
+[14:01:13] [Server thread/INFO]: [HabuGandu: Teleported HabuGandu to Drakii27]
+[14:02:25] [Server thread/INFO]: HabuGandu has made the advancement [Diamonds!]
+[14:02:34] [Server thread/INFO]: [HabuGandu: Set own game mode to Creative Mode]
+[14:02:45] [Server thread/INFO]: [HabuGandu: Set own game mode to Survival Mode]
+[14:03:08] [Server thread/INFO]: [HabuGandu: Set own game mode to Creative Mode]
+[14:04:09] [Server thread/INFO]: [HabuGandu: Applied enchantment Fortune III to HabuGandu's item]
+[14:04:31] [Server thread/INFO]: [HabuGandu: Teleported HabuGandu to Drakii27]
+[14:05:10] [Server thread/INFO]: [HabuGandu: Set own game mode to Survival Mode]
+[14:05:31] [Server thread/INFO]: [HabuGandu: Teleported Drakii27 to HabuGandu]
+[14:05:34] [Server thread/INFO]: Drakii27 was impaled on a stalagmite while fighting Skeleton
+[14:05:59] [Server thread/INFO]: [HabuGandu: Set own game mode to Creative Mode]
+[14:06:06] [Server thread/INFO]: [HabuGandu: Teleported Drakii27 to HabuGandu]
+[14:06:19] [Server thread/INFO]: [HabuGandu: Set Drakii27's game mode to Survival Mode]
+[14:06:21] [Server thread/INFO]: Made Drakii27 a server operator
+[14:06:30] [Server thread/INFO]: [HabuGandu: Applied effect Night Vision to Drakii27]
+[14:06:36] [Server thread/INFO]: [HabuGandu: Applied effect Health Boost to 2 targets]
+[14:06:51] [Server thread/INFO]: [Not Secure] [Server] guess what jiya is now server operator
+[14:07:07] [Server thread/INFO]: [Not Secure] [Server] jiya can use creative
+[14:07:16] [Server thread/INFO]: [Not Secure] <HabuGandu> diamond armor aapu max karine effects aapya to pan marigayi
+[14:07:25] [Server thread/INFO]: [Not Secure] [Server] lol
+[14:07:53] [Server thread/INFO]: Unknown game mode: Drakii27
+[14:07:53] [Server thread/INFO]: ...e Drakii27 Creative<--[HERE]
+[14:08:07] [Server thread/INFO]: Unknown game mode: Drakii27
+[14:08:07] [Server thread/INFO]: ...e Drakii27 creative<--[HERE]
+[14:08:24] [Server thread/INFO]: Unknown game mode: Creative
+[14:08:24] [Server thread/INFO]: ...e Creative Drakii27<--[HERE]
+[14:08:32] [Server thread/INFO]: Set Drakii27's game mode to Creative Mode
+[14:08:43] [Server thread/INFO]: [Not Secure] [Server] magic
+[14:10:00] [Server thread/INFO]: [HabuGandu: Set own game mode to Survival Mode]
+[14:10:43] [Server thread/INFO]: [HabuGandu: Set own game mode to Creative Mode]
+[14:11:19] [Server thread/INFO]: [HabuGandu: Set own game mode to Survival Mode]
+[14:14:08] [Server thread/INFO]: [HabuGandu: Teleported Drakii27 to HabuGandu]
+[14:16:16] [Server thread/INFO]: [HabuGandu: Teleported Drakii27 to HabuGandu]
+[14:16:36] [Server thread/INFO]: [HabuGandu: Set Drakii27's game mode to Survival Mode]
+[14:16:39] [Server thread/INFO]: Drakii27 has made the advancement [Diamonds!]
+[14:17:28] [Server thread/INFO]: [HabuGandu: Set own game mode to Creative Mode]
+[14:17:40] [Server thread/INFO]: [HabuGandu: Set own game mode to Survival Mode]
+[14:18:26] [Server thread/INFO]: [HabuGandu: Applied enchantment Fortune III to Drakii27's item]
+[14:19:19] [Server thread/INFO]: HabuGandu lost connection: Disconnected
+[14:19:19] [Server thread/INFO]: HabuGandu left the game
+[14:21:00] [Server thread/INFO]: HabuGandu[/172.17.0.1:55016] logged in with entity id 5854 at (71.24948309838672, -31.0, 242.0944761451635)
+[14:21:00] [Server thread/INFO]: HabuGandu joined the game
+[14:21:23] [Server thread/INFO]: HabuGandu lost connection: Disconnected
+[14:21:23] [Server thread/INFO]: HabuGandu left the game
+[14:21:29] [Server thread/INFO]: Drakii27 lost connection: Disconnected
+[14:21:29] [Server thread/INFO]: Drakii27 left the game
+[14:41:10] [Server thread/INFO]: Stopping the server
+[14:41:10] [Server thread/INFO]: Stopping server
+[14:41:10] [Server thread/INFO]: Saving players
+[14:41:10] [Server thread/INFO]: Saving worlds
+[14:41:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14:41:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[14:41:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[14:41:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:41:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:41:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:41:11] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
