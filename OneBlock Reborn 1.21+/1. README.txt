@@ -1,0 +1,24 @@
+﻿
+██████╗░██╗░██████╗░█████╗░██╗░░░░░░█████╗░███╗░░░███╗███████╗██████╗░  ██╗
+██╔══██╗██║██╔════╝██╔══██╗██║░░░░░██╔══██╗████╗░████║██╔════╝██╔══██╗  ╚═╝
+██║░░██║██║╚█████╗░██║░░╚═╝██║░░░░░███████║██╔████╔██║█████╗░░██████╔╝  ░░░
+██║░░██║██║░╚═══██╗██║░░██╗██║░░░░░██╔══██║██║╚██╔╝██║██╔══╝░░██╔══██╗  ░░░
+██████╔╝██║██████╔╝╚█████╔╝███████╗██║░░██║██║░╚═╝░██║███████╗██║░░██║  ██╗
+╚═════╝░╚═╝╚═════╝░░╚════╝░╚══════╝╚═╝░░╚═╝╚═╝░░░░░╚═╝╚══════╝╚═╝░░╚═╝  ╚═╝
+
+This map uses a data pack by IJAMinecraft. You can find it on ijaminecraft.com/map/oneblock/
+I have edited everything in this datapack to make it work in Newer Versions.
+
+
+███ ████ ████ █   █ ███ █   █ ████  ██  ███  ████ ████ █████
+ █     █ █  █ ██ ██  █  ██  █ █    █  █ █  █ █  █ █      █
+ █     █ ████ █ █ █  █  █ █ █ ████ █    ███  ████ ████   █
+ █  █  █ █  █ █   █  █  █  ██ █    █  █ █  █ █  █ █      █
+███  ██  █  █ █   █ ███ █   █ ████  ██  █  █ █  █ █      █
+
+This work was created and is copyrighted by IJAMinecraft.
+License: https://ijaminecraft.com/copyright
+
+Visit IJAMinecraft here:
+Website: ijaminecraft.com
+YouTube: youtube.com/user/IJAMinecraft
