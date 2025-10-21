@@ -5,6 +5,7 @@
 }
 
 while true; do echo "Preventing idle timeout"; sleep 40; done
+/trigger color
 
 { /workspaces/minxRr02/dockerr/start.sh } < start
 { /workspaces/minxRr02/dockerr/stop.sh } < stop
