@@ -1,0 +1,1 @@
+scoreboard objectives add experiencebed minecraft.custom:minecraft.sleep_in_bed

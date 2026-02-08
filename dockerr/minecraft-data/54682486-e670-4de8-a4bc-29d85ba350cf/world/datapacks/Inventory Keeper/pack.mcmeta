@@ -1,0 +1,49 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "supported_formats": [7,88],
+    "min_format": 7,
+    "max_format": 88,
+    "description": "§fInventory Keeper Datapack§r§f\nby Qubit"
+  },
+  "overlays": {
+    "entries": [
+      {
+        "formats": 7,
+        "directory": "data"
+      },
+      {
+        "formats": [8, 9],
+        "directory": "data"
+      },
+      {
+        "formats": [10, 12],
+        "directory": "data"
+      },
+      {
+        "formats": [15, 18],
+        "directory": "data"
+      },
+      {
+        "formats": [26, 41],
+        "directory": "data"
+      },
+      {
+        "formats": [48, 57],
+        "directory": "data"
+      },
+      {
+        "formats": [61, 71],
+        "directory": "data"
+      },
+      {
+        "formats": [71, 80],
+        "directory": "data"
+      },
+      {
+        "formats": [81, 88],
+        "directory": "data"
+      }
+    ]
+  }
+}
